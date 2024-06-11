@@ -10,7 +10,7 @@
   
 <div style="display: flex; gap: 200%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&layout=compact" alt="Top Langs 1" style="height: 200px; width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Langs 2" style="height: 200px; width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&hide_progress=true" alt="Top Langs 2" style="height: 200px; width: 48%;"/>
 </div>
 <p align="center">
   <a href="https://github.com/GabD-S" target="_blank">
