@@ -6,7 +6,7 @@
 - 📫 Para me contata instagram: [gaabsou1](https://www.instagram.com/gaabsou1/)
 
 ## Linguagens mais usadas
-- Tenho uma atenção especial por projetos web tanto frontend quando backend, mergulhando de cabeça em suas complexidades e desafios. No entanto, a maior parte das minhas submissões são voltadas para projetos numéricos ou competitivos, onde utilizo Pvarias linguagens pra resolver problemas matemáticos, aproximações com métodos númericos, simulaçoes e desafios.
+- Tenho uma atenção especial por projetos web tanto frontend quando backend, mergulhando de cabeça em suas complexidades e desafios. No entanto, a maior parte das minhas submissões são voltadas para projetos numéricos ou competitivos, onde utilizo varias linguagens pra resolver problemas matemáticos, aproximações com métodos númericos, simulaçoes e desafios.
   
 <div style="display: flex; gap: 200%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&layout=compact" alt="Top Langs 1" style="height: 200px; width: 48%;"/>
