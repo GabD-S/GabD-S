@@ -3,7 +3,7 @@
 - 🔭 Trabalho como treeine na EngNet 
 - 🌱 Estudando mySQL
 - ✔️ Faço desafios de programação competitiva e cálculos computacionais, inclusivo os mais complexos
-- 📫 Para me contata instagram: [gaabsou1](https://www.instagram.com/gaabsou1/)
+- 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/)
 
 ## Linguagens mais usadas
 - Tenho uma atenção especial por projetos web tanto frontend quando backend, mergulhando de cabeça em suas complexidades e desafios. No entanto, a maior parte das minhas submissões são voltadas para projetos numéricos ou competitivos, onde utilizo varias linguagens pra resolver problemas matemáticos, aproximações com métodos númericos, simulaçoes e desafios.
