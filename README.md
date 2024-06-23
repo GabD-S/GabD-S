@@ -3,7 +3,7 @@
 - 🔭 Trabalho como treeine na EngNet 
 - 🌱 Estudando mySQL
 - ✔️ Faço desafios de programação competitiva e cálculos computacionais, inclusivo os mais complexos
-- 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/)
+- 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/) ou [Email](mailto:desousa054@gmail.com) 
 
 ## Linguagens mais usadas
 - Tenho uma atenção especial por projetos web tanto frontend quando backend, mergulhando de cabeça em suas complexidades e desafios. No entanto, a maior parte das minhas submissões são voltadas para projetos numéricos ou competitivos, onde utilizo varias linguagens pra resolver problemas matemáticos, aproximações com métodos númericos, simulaçoes e desafios.
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub>
   </a>
       
-  <a href="desousa054@gmail.com" target="_blank">
+  <a href="mailto:desousa054@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
