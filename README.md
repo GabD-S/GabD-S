@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como membro na EngNet 
 - 🌱 Estudando mySQL 
-- ✔️ Faço desafios de programação competitiva e cálculos computacionais,com foco nos mais complexos
+- ✔️ Faço desafios de programação competitiva e cálculos computacionais, com foco nos mais complexos
 - 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/) ou [Email](mailto:desousa054@gmail.com) 
 
 ## Linguagens mais usadas
