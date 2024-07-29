@@ -1,8 +1,8 @@
 ## Oi! sou o Gabriel, faço desafios de programção competitiva, cálculos computacionais e projetos web 👋
 
-- 🔭 Trabalho como treeine na EngNet 
-- 🌱 Estudando mySQL
-- ✔️ Faço desafios de programação competitiva e cálculos computacionais, inclusivo os mais complexos
+- 🔭 Trabalho como membro na EngNet 
+- 🌱 Estudando mySQL 
+- ✔️ Faço desafios de programação competitiva e cálculos computacionais,com foco nos mais complexos
 - 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/) ou [Email](mailto:desousa054@gmail.com) 
 
 ## Linguagens mais usadas
