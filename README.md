@@ -1,4 +1,4 @@
-## Oi! sou o Gabriel, faço desafios de programção competitiva, cálculos computacionais e projetos web 👋
+## Oi! sou o Gabriel, faço desafios de programação competitiva, cálculos computacionais e projetos web 👋
 
 - 🔭 Trabalho como membro na EngNet e desenvolvo pesquisas relacionadas a blockchain
 - 🌱 Estudo e implemento bancos de dados 
