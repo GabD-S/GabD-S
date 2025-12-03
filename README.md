@@ -1,8 +1,8 @@
-## Oi! sou o Gabriel, faço desafios de programação competitiva, cálculos computacionais e projetos web 👋
+## Oi! sou o Gabriel, Trabalho na SwitchDreams, participo da empresa junior de redes EngNet, produzo pesquisa em blockchain e faço desafios de programação competitiva.
 
 - 🔭 Trabalho como membro na EngNet e desenvolvo pesquisas relacionadas a blockchain
 - 🌱 Estudo e implemento bancos de dados 
-- ✔️ Faço desafios de programação competitiva e cálculos computacionais, com foco nos mais complexos
+- ✔️ Faço projeto web e desenvolvimento pra plataformas web
 - 📫 Para me contatar, instagram: [gaabsou1](https://www.instagram.com/gaabsou1/) ou [Email](mailto:desousa054@gmail.com) 
 
 ## Linguagens mais usadas
