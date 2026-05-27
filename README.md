@@ -7,9 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/GabD-S?tab=followers">
-    <img src="https://img.shields.io/github/followers/GabD-S?label=Followers&style=for-the-badge&color=2980B9&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=GabD-S&label=Profile+views&color=2980B9&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20BR-2980B9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
