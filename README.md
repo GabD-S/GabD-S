@@ -21,7 +21,7 @@
 nome:        Gabriel de Sousa
 formação:    Engenharia de Computação — UnB (9º período)
 trabalho:    Desenvolvedor Full-Stack @ Switch Dreams
-empresa_jr:  EngNet Consultoria — Gerente de Projetos
+empresa_jr:  EngNet Consultoria — Gerente de Projeto
 pesquisa:    Blockchain, Contratos Inteligentes & Sistemas Multi-Agente
 publicações: CBIE 2025 (Curitiba) | IEEE ICBC 2026 (Melbourne) — submetido
 sócio:       Projeto de Visão Computacional para detecção animal
