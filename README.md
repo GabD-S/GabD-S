@@ -143,6 +143,3 @@ idiomas:     Português (nativo), Espanhol, Francês, Inglês
 
 ---
 
-<p align="center">
-  <i>"Construindo soluções de impacto, da Física Computacional aos Sistemas Multi-Agente."</i>
-</p>
