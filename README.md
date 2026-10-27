@@ -124,29 +124,7 @@ idiomas:     Português (nativo), Espanhol, Francês, Inglês
 
 </div>
 
----
-
-## Estatísticas do GitHub
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabD-S&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=GabD-S&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-
-## Contato
-
-<p align="center">
-  <a href="mailto:desousa054@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gaabsou1/">
+ <a href="https://www.instagram.com/gaabsou1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
