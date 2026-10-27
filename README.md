@@ -128,16 +128,17 @@ idiomas:     Português (nativo), Espanhol, Francês, Inglês
 
 ## Estatísticas do GitHub
 
+## Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabD-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabD-S&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabD-S&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=GabD-S&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabD-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
----
 
 ## Contato
 
